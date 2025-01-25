@@ -1,0 +1,9 @@
+# This text file contains all information required while doing SSH
+
+1)Open AWS console,create t2.micro EC2 instance 
+2)Create key-pair file ,RSA .pem type
+3)Download it and copy it to linux's file system \\wsl$
+4)Change the permission of file to make publicaly non -viewable usibg chmod 400
+
+5) copy the example command povided in ssh tab in aws and ok
+
