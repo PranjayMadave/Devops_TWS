@@ -1,0 +1,8 @@
+# this file contains all the info and syntax of shell file
+
+first of all we have to use shabang in all shell script file #!/bin/bash
+
+and afte creating shell file edit the permissions to chmod 755
+and rwx-rwx-rwx
+    user group others
+such that it has executable permission for user 
