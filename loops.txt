@@ -1,0 +1,14 @@
+# This doc contain systax of for loop and while loop
+
+
+for ((i=1;i<=10;i++))
+do 
+   ndfvnvknrrk
+done
+
+
+
+while (())
+
+
+

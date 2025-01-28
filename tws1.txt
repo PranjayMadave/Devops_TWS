@@ -1,0 +1,23 @@
+This is new file for bash scripting tws
+
+to add greater than condition use -ge __
+
+syntax
+
+if [[ ]] ;
+then 
+
+elif [[]] ;
+then 
+
+else [[]]
+
+fi
+<< comments
+syntax to create loop( for or while loop)
+for((i=num1;i<num2;i++))
+do
+	mkdir$i
+comments
+
+to delete folder use rm -r file*

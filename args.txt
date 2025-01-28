@@ -1,0 +1,18 @@
+This docs contain info about arguents is shell scripting
+filename.sh is $0th argument
+filename.sh arg1 is 1st argument and can be used in code by $1
+
+
+### Conditionals
+
+syntax
+if [[ ]];
+then 
+   sbdvjksbvjb
+elif [[]];
+then 
+  gfgfhhg
+else 
+   dfbklsfnvsk
+fi
+
